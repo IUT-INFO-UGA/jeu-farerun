@@ -3,10 +3,9 @@ package jeu.test;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
-
-class ChefNainTest {
+class ElfeTest {
 
 	@Test
-	void subirDegats() {
+	void getForce() {
 	}
 }
